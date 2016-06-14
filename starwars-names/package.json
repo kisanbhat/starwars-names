@@ -1,0 +1,24 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "Get random Star Wars names",
+  "main": "scr/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/kisanbhat/starwars-names.git)"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars",
+    "names"
+  ],
+  "author": "Kisan <kisanbhat@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
